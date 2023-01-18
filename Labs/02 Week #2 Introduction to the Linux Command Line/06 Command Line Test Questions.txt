@@ -1,0 +1,35 @@
+https://tutorcs.com
+WeChat: cstutorcs
+QQ: 749389476
+Email: tutorcs@163.com
+Command Line Test Questions
+
+If you can answer the following test questions using the command line, then you have enough to complete the module
+
+ 
+
+1.  Open a terminal/shell. How can you tell which user you are logged in as?
+
+2.  Print your working directory
+
+3.  List all files and directory contents
+
+4.  Change directory to Desktop
+
+5.  Create a directory <testdir> in the Desktop
+
+6.  Create a file <listcontents> in the testdir directory
+
+7.  List all contents of directory Desktop and redirect the output to file listcontents. (Optional: Sort contents alphabetically first)
+
+8.  View the full contents of file listcontents. View the last 5 lines of file listcontents.
+
+9.  Search if the file listcontents contains the word “bomb”
+
+10. Clear the screen
+
+11. Remove the file listcontents
+
+12. Remove the directory testdir
+
+13. Run a programme in the background. Then end that process.

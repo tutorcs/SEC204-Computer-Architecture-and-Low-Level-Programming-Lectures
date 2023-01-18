@@ -1,0 +1,29 @@
+https://tutorcs.com
+WeChat: cstutorcs
+QQ: 749389476
+Email: tutorcs@163.com
+Using CompArchitecture version of Linux
+
+Previous version of Ubuntu used cannot be used at the same time as this version
+
+Find the directory CompArchitecture on the V: Drive
+
+Copy the directory to Documents
+
+Within CompArchitecture double click on the .vbox file.
+
+Click on install (left), then start.
+
+Username = student
+
+Password = student
+
+All code is in /booksrc
+
+
+
+At the end of the practical.
+
+Exit the terminal.
+
+Shut down

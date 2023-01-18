@@ -1,0 +1,5 @@
+https://tutorcs.com
+WeChat: cstutorcs
+QQ: 749389476
+Email: tutorcs@163.com
+The purpose of a debugger such as GDB is to allow you to see what is going on “inside” another program while it executes—or what another program was doing at the moment it crashed.

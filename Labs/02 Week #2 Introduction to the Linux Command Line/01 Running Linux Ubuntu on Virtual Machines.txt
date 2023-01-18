@@ -1,0 +1,23 @@
+https://tutorcs.com
+WeChat: cstutorcs
+QQ: 749389476
+Email: tutorcs@163.com
+Running Linux Ubuntu on Virtual Machines
+
+Describes how to set up, run & end Linux Ubuntu sessions on the VM Workstations in SMB 101
+Open Explorer & click on the V: drive
+Copy Ubuntu-SEC204 to Documents
+
+Open Ubuntu-SEC204 in Documents
+Double-click on the .vmx file
+
+This will launch the VMware Workstation
+Click on 'Power on this virtual machine'
+If asked, click on 'I copied it' (not moved it)
+Enter password - sec204 & hit return
+
+Double-click on the Terminal (bottom left icon on bar)
+
+You can now proceed with the practical
+
+When the session is ending, in the top left of the window you will see an orange 'pause' icon. Click on the drop-down tab beside it & 'Power off'
